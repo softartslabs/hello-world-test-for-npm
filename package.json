@@ -1,6 +1,6 @@
 {
   "name": "hello-world-test-for-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is hello world project for testing npm repository.",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/softartslabs/hello-world-test-for-npm/issues"
   },
-  "homepage": "https://github.com/softartslabs/hello-world-test-for-npm#readme"
+  "homepage": "https://github.com/softartslabs/hello-world-test-for-npm#readme",
+  "keywords": [
+    "hello-world-test",
+    "npm-repository"
+  ]
 }
