@@ -1,0 +1,19 @@
+{
+  "name": "hello-world-test-for-npm",
+  "version": "1.0.0",
+  "description": "This is hello world project for testing npm repository.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/softartslabs/hello-world-test-for-npm.git"
+  },
+  "author": "SoftArts, Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/softartslabs/hello-world-test-for-npm/issues"
+  },
+  "homepage": "https://github.com/softartslabs/hello-world-test-for-npm#readme"
+}
