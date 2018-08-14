@@ -25,4 +25,4 @@ console.log('hello');
   2. World
 
 ## Contributing
-Please read [CONTIRIBUTING.md](/test.js)
+Please read [CONTIRIBUTING.md](index.js)
